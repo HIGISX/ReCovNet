@@ -21,3 +21,5 @@ pip install tensorflow
 pip install tqdm
 ```
 
+## Questions / Bugs
+Please feel free to submit a Github issue if you have any questions or find any bugs. We do not guarantee any support, but will do our best if we can help.
