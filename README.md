@@ -1,3 +1,7 @@
+## updata 10.23
+Added a deep learning baseline AM to solve MCBLP.
+You can run [AM](https://github.com/HIGISX/ReCovNet/blob/master/Comparative_experiment_with_Attention_Model.ipynb) to quickly implement AM to solve MCBLP.
+
 # ReCovNet
 This project is the code for the study: ReCovNet: Reinforcement Learning with Covering Information for Solving Maximal Coverage Billboards Location Problem.
 
